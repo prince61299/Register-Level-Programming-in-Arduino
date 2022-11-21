@@ -1,5 +1,5 @@
 // INTERFACING OF RELAY WITH ARDUINO
-// Register level program for 16x2 LCD screen
+// Register level program for Relay
 // This project is design by Prince Kumar Kushwaha
 /*
 We make a circuits when if you pressed the button the Relay ON and if you release the button then Relay will OFF.
